@@ -136,5 +136,17 @@
   },
   "devDependencies": {
     "concurrently": "^4.0.1"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). ## Package is installed with es7 decorators support and mobx",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnastasiyaZinman/hackathon2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnastasiyaZinman/hackathon2/issues"
+  },
+  "homepage": "https://github.com/AnastasiyaZinman/hackathon2#readme"
 }
